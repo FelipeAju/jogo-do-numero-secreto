@@ -5,4 +5,4 @@
 Após cada erro, vai ser dado uma dica para te ajudar na conquista do objetivo.
 
 
-## Bom jogo! 😃
+## Bom jogo! 
